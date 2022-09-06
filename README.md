@@ -31,7 +31,7 @@ I'm an Ex-Mechanical Engineer, turned Frontend Developer with a passion in creat
 
 <br>
 
-
+<!-- 
 ### 📊 Github Stats
 <a href='https://github.com/vndrewhk/github-stats-transparent'>
   
@@ -41,3 +41,4 @@ I'm an Ex-Mechanical Engineer, turned Frontend Developer with a passion in creat
 <br>
 
 ### 🛠️ My Projects
+ -->
