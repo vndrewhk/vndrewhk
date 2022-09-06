@@ -12,7 +12,7 @@ I'm an Ex-Mechanical Engineer, turned Frontend Developer with a passion in creat
 ### 🧐 More About Me:
 
 - 🔭 &nbsp; I’m currently working on **Blabber - A Twitter Mimicry Site**
-- 🌱 &nbsp; I’m currently learning Typescript; 
+- 🌱 &nbsp; I’m currently learning Typescript
 - 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/vndrewhk?tab=repositories)
 - 📫 &nbsp; Feel free to ping me on [LinkedIn](https://www.linkedin.com/in/andrew-m-394714136)
 <br>
