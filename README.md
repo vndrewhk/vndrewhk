@@ -1,5 +1,5 @@
 ## Hey 👋,  I'm Andrew!
-<a href='[https://www.linkedin.com/in/rahul-jha98](https://www.linkedin.com/in/andrew-m-394714136)/'><img align='left' alt="linkedin" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/561d474902b59c7429ec22bb73e225696c27b202/assets/linkedin.svg" height='18px'/></a>
+<a href='[https://www.linkedin.com/in/andrew-m-394714136](https://www.linkedin.com/in/andrew-m-394714136)/'><img align='left' alt="linkedin" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/561d474902b59c7429ec22bb73e225696c27b202/assets/linkedin.svg" height='18px'/></a>
 
 <br/>
 
@@ -11,14 +11,11 @@ I'm an Ex-Mechanical Engineer, turned Frontend Developer with a passion in creat
   
 ### 🧐 More About Me:
 
-- 🔭 &nbsp; I’m currently working on **youtube-audio-player**
+- 🔭 &nbsp; I’m currently working on **Blabber - A Twitter Mimicry Site**
 - 🌱 &nbsp; I’m currently learning Typescript; 
 - 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/vndrewhk?tab=repositories)
-- 🎨 &nbsp; Using [this svg](https://storyset.com/illustration/javascript-frameworks/amico) and Figma I made 👉
-- 💬 &nbsp; Ask me about anything tech related, I am happy to help;
-- 📫 &nbsp; Feel free to ping me on [LinkedIn](https://www.linkedin.com/in/rahul-jha98/)
-- 📝 &nbsp; Checkout my [resume](https://drive.google.com/file/d/1ZpR5pVBTnl_Qybq7GE3MGy1SB1JehVSE/view?usp=sharing)
-- 📚 &nbsp; When I am free, I read fantasy and fiction novels. Checkout my [Goodreads](https://www.goodreads.com/rahul-jha98) to see the book I have read
+- 📫 &nbsp; Feel free to ping me on [LinkedIn](https://www.linkedin.com/in/andrew-m-394714136)
+
 
 <br>
 
