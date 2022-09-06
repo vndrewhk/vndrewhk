@@ -11,7 +11,7 @@ I'm an Ex-Mechanical Engineer, turned Frontend Developer with a passion in creat
 
 ### 🧐 More About Me:
 
-	@@ -21,13 +21,13 @@ I'm an Ex-Mechanical Engineer, turned Frontend Developer with a passion in creat
+	
 
 ### 🔨 Languages and Tools:
 
