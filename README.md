@@ -9,15 +9,15 @@ I'm an Ex-Mechanical Engineer, turned Frontend Developer with a passion in creat
 
 <img align="right" alt="GIF" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/main/techstack.gif" width="360px"/>
 
-### 🧐 More About Me:
+###  More About Me:
 
-- 🔭 &nbsp; I’m currently working on **Blabber - A Twitter Mimicry Site**
-- 🌱 &nbsp; I’m currently learning Typescript
-- 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/vndrewhk?tab=repositories)
-- 📫 &nbsp; Feel free to ping me on [LinkedIn](https://www.linkedin.com/in/andrew-m-394714136)
+
+-  &nbsp; I’m currently learning Typescript
+-  &nbsp; Most of my projects are available on [Github](https://github.com/vndrewhk?tab=repositories)
+-  &nbsp; Feel free to find me on [LinkedIn](https://www.linkedin.com/in/andrew-m-394714136)
 <br>
 
-### 🔨 Languages and Tools:
+###  Languages and Tools:
 
 <a href="https://www.python.org" target="_blank"><img align="left" alt="Python" height ="42px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/python/python.svg"></a>
 <a href="https://firebase.google.com/" target="_blank"> <img align="left" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/firebase/firebase.svg" alt="firebase" height ="42px"/> </a>
